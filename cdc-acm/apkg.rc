@@ -1,0 +1,17 @@
+Package:          cdc-acm
+Packager:         krazubu
+Email:            krazubu@gmail.com
+Homepage:         
+Description:      cdc-acm
+Icon:             cdc-acm.png
+AddonShowName:    cdc-acm
+AddonIndexPage:
+AddonUsedPort:    
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:          0.1
+MinFWVer:
+MaxFWVer:
+IndividualFlag:
