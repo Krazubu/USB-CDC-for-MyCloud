@@ -23,3 +23,4 @@ Ensure the app is enabled (it should be by default).<br>
 The driver will automatically load if the device is rebooted, as long as the app is enabled.<br>
 If it was loaded after the device is plugged, it will require replugging the device, or a reboot.<br>
 The cdc-acm device(s) will then be available in /dev folder (usually /dev/ttyACM0)<br>
+The cdc-acm folder contains the source you can use to update the driver/app yourself. To do so, 1st compile the Linux kernel using WD provided chaintool, then update the newly compiled cdc-acm.ko module in the folder. Finally build the app package, still using the WD provided tool.
