@@ -1,4 +1,4 @@
-# USB-CDC-for-MyCloud
+# USB CDC-ACM Driver for MyCloud
 
 
 These apps are intended for use on various MyCloud devicesand contain the driver that allows you to use serial USB devices on those NAS.<br>
