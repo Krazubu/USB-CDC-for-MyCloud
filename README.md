@@ -1,7 +1,7 @@
 # USB CDC-ACM Driver for WD MyCloud devices
 
 
-These apps are intended for use on various MyCloud devicesand contain the driver that allows you to use serial USB devices on those NAS.<br>
+These apps are intended for use on various MyCloud devices and contain the driver that allows you to use serial USB devices on those NAS.<br>
 This is the USB CDC-ACM Driver from linux kernel 4.14.22, compiled for intel based MyCloud devices under OS 5 version 5.26.119, then packaged as an app.<br>
 It was built using toolchain WDMyCloud_PR4100_GPL_v5.26.119_20221229, available on this page : https://support-en.wd.com/app/products/product-detailweb/p/139
 Source structure for app packaging was borrowed from https://github.com/hashashin/mycloudapps/tree/master/cdc-acm
